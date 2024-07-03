@@ -1,7 +1,10 @@
-# servo-motor
-Algorithm to start servo motor to form robot walking movment
+# Robot Walking Movement using Servo Motors
 
-## pseudocde 
+This project demonstrates a basic algorithm to control servo motors and create a walking movement for a robot.
+
+## Pseudocode
+
+```python
 # Initialize servo motors
 initialize_servos()
 set_initial_servo_positions()
