@@ -21,5 +21,5 @@ while True:
     move_servos_to_positions(hip_pos2, knee_pos2, ankle_pos2)
     delay(walking_delay)
     # Repeat for additional target positions
-
-    This algorithm focuses on the core steps of initiating the servo motors, defining the target positions for walking, and then moving the servos through a loop to create the walking movement.
+```
+This algorithm focuses on the core steps of initiating the servo motors, defining the target positions for walking, and then moving the servos through a loop to create the walking movement.
