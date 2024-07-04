@@ -26,3 +26,4 @@ This algorithm focuses on the core steps of initiating the servo motors, definin
 
 
 ![image](https://github.com/Deem02/servo-motor/assets/158334032/0d70781b-6353-4bdd-84cc-19a75f2d5d76)
+(https://www.tinkercad.com/things/02rHWCfkifC-copy-of-exquisite-kieran/editel?tenant=circuits).
