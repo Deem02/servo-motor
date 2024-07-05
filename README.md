@@ -25,5 +25,5 @@ while True:
 This algorithm focuses on the core steps of initiating the servo motors, defining the target positions for walking, and then moving the servos through a loop to create the walking movement.
 
 
-![image](https://github.com/Deem02/servo-motor/assets/158334032/0d70781b-6353-4bdd-84cc-19a75f2d5d76)
+
 
